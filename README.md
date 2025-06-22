@@ -17,7 +17,7 @@
 ✅ **一键式操作界面** – 零技术门槛，填表即可生成专业视频  
 ✅ **实时结果展示** – 处理完成后立即在浏览器中预览和下载
 
-![ai-bit](images\ai-bit.png)
+![ai-bit](https://storage.googleapis.com/nca-toolkit-bucket-yorko/ai-bit.png)
 
 ---
 
@@ -100,8 +100,9 @@
 
 观看**生成视频演示**：
 
-<video src="https://storage.googleapis.com/nca-toolkit-bucket-yorko/70d8400e-a1d4-41f3-9875-b5a2055ebd45_output_0.mp4" autoplay="true" controls="controls">
+<video src="https://storage.googleapis.com/nca-toolkit-bucket-yorko/70d8400e-a1d4-41f3-9875-b5a2055ebd45_output_0.mp4" autoplay="true" controls="controls" width="700" height="500">
 </video>
+
 
 ---
 
